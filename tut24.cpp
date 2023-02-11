@@ -23,7 +23,7 @@ public:
         cout << "the value of count is " << count << endl;
     }
 };
-// count is the static data members of class employee
+// count is the static data members of class employeewww
 int employee::count = 100; // static variable always have default value is 0 and static variable is also known as class variables
 int main()
 {
